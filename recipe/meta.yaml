@@ -25,6 +25,7 @@ requirements:
     - perl-sub-exporter-progressive
   run:
     - perl
+    - perl-sub-exporter-progressive
 
 test:
   imports:
